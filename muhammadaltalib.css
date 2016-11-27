@@ -1,0 +1,27 @@
+
+
+
+
+.center{
+	position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 61px;
+	color: white;
+    font-family: 'Open Sans', sans-serif;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: bold;
+	line-height: 26px;
+}
+
+.container {
+    position: relative;
+}
+
+
+img { 
+    width: 100%;
+    height: auto;
+
